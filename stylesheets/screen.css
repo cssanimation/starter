@@ -1,0 +1,14 @@
+/* Styles go here */
+
+h1 {
+  color: #0b4969;
+  font-family: "Comic Sans MS", Helvetica, Arial, Sans-serif;
+  text-align: center;
+  -webkit-transition: all 0.4s ease-out;
+  transition: all 0.4s ease-out;
+}
+
+h1:hover {
+  color: salmon;
+  font-size: 3em;
+}
